@@ -3,10 +3,10 @@
 ## Table of Contents
 * [How to get started](#Howtogetstarted)
 * [Instructions](#instructions)
-* [Future-Improvements](#FutureImprovements)
+* [FutureImprovements](#FutureImprovements)
 
 ## How to get started
-In order to play the game, you can load locally or play it here[link]. For playing it locally, first download or clone the repository and open index.html in browser
+In order to play the game, you can load locally or play it here[link](https://kurosakicoder.github.io/FENDArcadeGameKuro/). For playing it locally, first download or clone the repository and open index.html in browser
 
 ## Instructions
 Your aim is to achieve a high score by collecting as many gems as possible. For generating a gem, your hero must cross on the road without crashing into any of the enemy bugs.
@@ -17,9 +17,9 @@ Your aim is to achieve a high score by collecting as many gems as possible. For 
 * For every gem generated, the game level increases.
 
 ## Demo
-See [Game Demo]()
+See [Game Demo](https://kurosakicoder.github.io/FENDArcadeGameKuro/)
 
-## Future-Improvements
+## FutureImprovements
 - [ ] Add obstacles to the difficulty of the game
 - [ ] Responsive design
 - [ ] Add background music
