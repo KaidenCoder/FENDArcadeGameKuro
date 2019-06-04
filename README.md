@@ -3,7 +3,7 @@
 ## Table of Contents
 * [How to get started](#Howtogetstarted)
 * [Instructions](#instructions)
-* [Future Improvements](#FutureImprovements)
+* [FutureImprovements](#FutureImprovements)
 
 ## How to get started
 In order to play the game, you can load locally or play it here[link]. For playing it locally, first download or clone the repository and open index.html in browser
@@ -19,7 +19,7 @@ Your aim is to achieve a high score by collecting as many gems as possible. For 
 ## Demo
 See [Game Demo]()
 
-## Future Improvements
+## FutureImprovements
 - [ ] Add obstacles to the difficulty of the game
 - [ ] Responsive design
 - [ ] Add background music
